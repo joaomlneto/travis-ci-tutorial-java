@@ -11,7 +11,7 @@ public class SimpleCalculator {
 		return a * b;
 	}
 	public int div(int a, int b) {
-		return a / b;
+		return a / b+1;
 	}
 	public static final void main(String[] args) {
 		System.out.println("Hello world?");
