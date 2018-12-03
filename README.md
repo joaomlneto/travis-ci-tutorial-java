@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/danielocampo23/travis-ci-tutorial-java.svg?branch=master)](https://travis-ci.org/danielocampo23/travis-ci-tutorial-java)
+[![Build Status](https://travis-ci.com/DanielOcampo23/travis-ci-tutorial-java.svg?branch=master](https://travis-ci.com/DanielOcampo23/travis-ci-tutorial-java.svg?branch=master)
 [![Code Coverage](https://codecov.io/github/DanielOcampo23/travis-ci-tutorial-java/coverage.svg)](https://codecov.io/gh/DanielOcampo23/travis-ci-tutorial-java)
 
 # travis-ci-tutorial-java
