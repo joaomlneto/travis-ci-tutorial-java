@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.maven.mercury:mercury-transport-http:1.0.0-alpha-2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/maven/mercury/mercury-transport-http/1.0.0-alpha-2/mercury-transport-http-1.0.0-alpha-2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/maven/mercury/mercury-transport-http/1.0.0-alpha-2/mercury-transport-http-1.0.0-alpha-2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/maven/mercury/mercury-transport-http/1.0.0-alpha-2/mercury-transport-http-1.0.0-alpha-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
