@@ -11,7 +11,7 @@ jdk:
  - oraclejdk8
  - oraclejdk9
 
-script: mvn clean install
+script: mvn install -DskipTests=true -Dmaven.javadoc.skip=true -B -V
 
 # Each job in Travis CI has several steps:
 # https://docs.travis-ci.com/user/job-lifecycle/
