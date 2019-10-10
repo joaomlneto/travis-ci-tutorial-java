@@ -11,6 +11,8 @@ jdk:
  - oraclejdk8
  - oraclejdk9
 
+script: mvn clean install
+
 # Each job in Travis CI has several steps:
 # https://docs.travis-ci.com/user/job-lifecycle/
 # The 'language: java' directive sets up sane defaults to test common java applications
