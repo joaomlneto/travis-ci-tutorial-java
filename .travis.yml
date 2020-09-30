@@ -1,4 +1,4 @@
-# Travis CI Java documentation can be found in:
+#Travis CI java docs can be found in:
 # https://docs.travis-ci.com/user/languages/java/
 
 # We will use Ubuntu 18.04 (bionic beaver). List of options:
