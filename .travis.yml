@@ -1,9 +1,6 @@
 # Travis CI Java documentation can be found in:
 # https://docs.travis-ci.com/user/languages/java/
 
-# We will use Ubuntu 18.04 (bionic beaver). List of options:
-# https://docs.travis-ci.com/user/reference/overview/#linux
-dist: xenial
 
 # This enables the 'defaults' to test java applications:
 language: java
@@ -11,9 +8,6 @@ language: java
 # We can specify a list of JDKs to be used for testing
 # A list of available JDKs in Trusty can be seed in:
 # https://docs.travis-ci.com/user/reference/xenial/#jvm-clojure-groovy-java-scala-support
-jdk:
- - openjdk8
- - openjdk11
 
 # Each job in Travis CI has several steps:
 # https://docs.travis-ci.com/user/job-lifecycle/
