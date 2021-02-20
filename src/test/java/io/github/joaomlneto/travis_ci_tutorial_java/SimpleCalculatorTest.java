@@ -30,5 +30,10 @@ public class SimpleCalculatorTest {
     	public void testTest() {
        		Assert.assertTrue(true);
     }
+
+	@Test
+		public void testTest1() {
+		Assert.assertTrue(true);
+	}
 }
 
