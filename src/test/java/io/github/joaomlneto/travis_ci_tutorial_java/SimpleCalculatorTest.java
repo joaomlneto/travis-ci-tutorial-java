@@ -49,9 +49,5 @@ public class SimpleCalculatorTest {
 		Assert.assertTrue(true);
 	}
 
-	@Test
-		public void testTest5() {
-		Assert.assertTrue(true);
-	}
 }
 
