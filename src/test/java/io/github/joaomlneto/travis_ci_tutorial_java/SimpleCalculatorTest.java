@@ -45,5 +45,10 @@ public class SimpleCalculatorTest {
 		Assert.assertTrue(true);
 	}
 
+	@Test
+	public void testTestNewBranch() {
+		Assert.assertTrue(true);
+	}
+
 }
 
