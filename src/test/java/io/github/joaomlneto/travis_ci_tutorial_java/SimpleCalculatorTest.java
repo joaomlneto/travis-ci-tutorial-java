@@ -1,54 +1,52 @@
 package io.github.joaomlneto.travis_ci_tutorial_java;
 
-import java.util.*;
-
 import static org.junit.Assert.*;
+
+import java.util.*;
 import org.junit.*;
 
 public class SimpleCalculatorTest {
-	@Test
-	public void testAdd() {
-		SimpleCalculator calc = new SimpleCalculator();
-		assertEquals(calc.add(1, 1), 2);
-	}
-	@Test
-	public void testSub() {
-		SimpleCalculator calc = new SimpleCalculator();
-		assertEquals(calc.sub(1, 1), 0);
-	}
-	@Test
-	public void testMul() {
-		SimpleCalculator calc = new SimpleCalculator();
-		assertEquals(calc.mul(3, 5), 15);
-	}
-	@Test
-	public void testDiv() {
-		SimpleCalculator calc = new SimpleCalculator();
-		assertEquals(calc.div(8, 2), 4);
-	}
-	@Test
-    	public void testTest() {
-       		Assert.assertTrue(true);
-    }
+  @Test
+  public void testAdd() {
+    SimpleCalculator calc = new SimpleCalculator();
+    assertEquals(calc.add(1, 1), 2);
+  }
+  @Test
+  public void testSub() {
+    SimpleCalculator calc = new SimpleCalculator();
+    assertEquals(calc.sub(1, 1), 0);
+  }
+  @Test
+  public void testMul() {
+    SimpleCalculator calc = new SimpleCalculator();
+    assertEquals(calc.mul(3, 5), 15);
+  }
+  @Test
+  public void testDiv() {
+    SimpleCalculator calc = new SimpleCalculator();
+    assertEquals(calc.div(8, 2), 4);
+  }
+  @Test
+  public void testTest() {
+    Assert.assertTrue(true);
+  }
 
-	@Test
-		public void testTest1() {
-		Assert.assertTrue(true);
-	}
-	@Test
-		public void testTest2() {
-		Assert.assertTrue(true);
-	}
+  @Test
+  public void testTest1() {
+    Assert.assertTrue(true);
+  }
+  @Test
+  public void testTest2() {
+    Assert.assertTrue(true);
+  }
 
-	@Test
-		public void testTestL() {
-		Assert.assertTrue(true);
-	}
+  @Test
+  public void testTestL() {
+    Assert.assertTrue(true);
+  }
 
-	@Test
-	public void testTestNewBranch() {
-		Assert.assertTrue(true);
-	}
-
+  @Test
+  public void testTestNewBranch() {
+    Assert.assertTrue(true);
+  }
 }
-
