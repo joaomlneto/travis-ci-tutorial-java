@@ -40,5 +40,5 @@ If you don't want it:
 
 # Contributing
 
-Spotted a mistake? Questions? Suggestions?  
+Spotted a mistake? Questions? Suggestions?
 [Open an Issue](https://github.com/joaomlneto/travis-ci-tutorial-java/issues/new)!
