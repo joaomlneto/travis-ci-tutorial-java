@@ -1,12 +1,15 @@
 [![Build Status](https://travis-ci.org/bambam2174/travis-ci-tutorial-java.svg?branch=master)](https://travis-ci.org/bambam2174/travis-ci-tutorial-java)
 [![Code Coverage](https://codecov.io/github/bambam2174/travis-ci-tutorial-java/coverage.svg)](https://codecov.io/gh/bambam2174/travis-ci-tutorial-java)
 
+
 # travis-ci-tutorial-java
 Just to learn how to use travis-ci in a java project!
 
 This is a working minimal example of how to use Travis CI (and Codecov) with Java on GitHub.
 
 - It uses the [JUnit](https://junit.org) testing framework
+
+[Click here for the example using GitHub Actions instead of Travis CI](https://github.com/joaomlneto/github-ci-tutorial-java)
 
 # How To Start
 
